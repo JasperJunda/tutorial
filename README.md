@@ -7,3 +7,6 @@
 4. Clone your new fork repository to local.
 5. Configure repository upstream. e.g. `git remote add upstream https://github.com/leonlianght/tutorial.git`
 6. New a file and name after your name in the root directory, add something to it. e.g. 'Leon'
+7. Add and commit your file.
+8. Push to your repository.
+9. Go to your repository on [website](www.github.com), and new Pull Request.
